@@ -1,7 +1,6 @@
-Flax-Dashboard-Satellite
+### Flax-Dashboard-Satellite
 
 (modified version of Chia-Dashboard-Satellite to Support the Flax Fork.)
-======
 
 ## Prerequisites
 
