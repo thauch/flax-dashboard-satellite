@@ -1,7 +1,7 @@
 1.11.0 / 2021-08-07
 ===================
 
-* updated for nft plots and rebased
+* updated for nft plots and rebased and removed the need for seperate api's
 
 1.10.0 / 2021-06-03
 ==================
