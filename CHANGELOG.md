@@ -1,3 +1,31 @@
+
+1.13.0 / 2022-01-22
+==================
+
+* Update dependencies.
+* Increase sync interval.
+* Remove unused fields from request bodies.
+
+1.12.7 / 2021-11-06
+==================
+
+* Fix plotting stats on chia >= 1.2.11.
+
+1.12.5 / 2021-08-18
+===================
+
+* Removed the need for seperate api's and just use chia-api as its now overridable on Connection constructor and SERVICE() method
+
+1.11.2 / 2021-07-28
+===================
+
+* Changed Over The Names To The New Forks And Updated Yarn And Versions
+
+1.11.0 / 2021-07-28
+===================
+
+* Forked From Felix And Changed Names For Forks
+
 1.10.0 / 2021-06-03
 ==================
 
